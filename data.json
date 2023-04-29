@@ -1,0 +1,164 @@
+[
+    {
+      "title": "Black",
+      "id": 1,
+      "desc": "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
+      "price": 35,
+      "ingredients": [
+        "Coffee",
+        "Whiskey"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/640px-A_small_cup_of_coffee.JPG"
+    },
+    {
+      "title": "Latte",
+      "desc": "As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
+      "price": 45,
+      "ingredients": [
+        "Espresso",
+        "Steamed Milk"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg/509px-Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg",
+      "id": 2
+    },
+    {
+      "title": "Cappuccino",
+      "desc": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
+      "price": 40,
+      "ingredients": [
+        "Espresso",
+        "Steamed Milk",
+        "Foam"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Wet_Cappuccino_with_heart_latte_art.jpg",
+      "id": 3
+    },
+    {
+      "title": "Americano",
+      "desc": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water.",
+      "price": 42,
+      "ingredients": [
+        "Espresso",
+        "Hot Water"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg/1280px-Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg",
+      "id": 4
+    },
+    {
+      "title": "Espresso",
+      "desc": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
+      "price": 30,
+      "ingredients": [
+        "1oz Espresso"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg",
+      "id": 5
+    },
+    {
+      "title": "Doppio",
+      "desc": "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
+      "price": 50,
+      "ingredients": [
+        "2oz Espresso"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Doppio.jpg/2560px-Doppio.jpg",
+      "id": 6
+    },
+    {
+      "title": "Cortado",
+      "desc": "Like yin and yang, a cortado is the perfect balance of espresso and warm steamed milk. The milk is used to cut back on the espresso’s acidity.",
+      "price": 42,
+      "ingredients": [
+        "1oz Espresso",
+        "1oz Steamed Milk"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Caf%C3%A9Cortado%28Tallat%29.jpg",
+      "id": 7
+    },
+    {
+      "title": "Galão",
+      "desc": "Originating in Portugal, this hot coffee drink is closely related to the latte and cappuccino. Only difference is it contains about twice as much foamed milk, making it a lighter drink compared to the other two.",
+      "price": 35,
+      "ingredients": [
+        "Espresso",
+        "Foamed milk"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gal%C3%A3o.jpg/1280px-Gal%C3%A3o.jpg",
+      "id": 8
+    },
+    {
+        "title": "Iced Coffee",
+        "desc": "A coffee with ice, typically served with a dash of milk, cream or sweetener—iced coffee is really as simple as that.",
+        "price": 35,
+        "ingredients": [
+          "Coffee",
+          "Ice",
+          "Sugar*",
+          "Cream*"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg",
+        "id": 9
+      },
+      {
+        "title": "Iced Espresso",
+        "desc": "Like an iced coffee, iced espresso can be served straight or with a dash of milk, cream or sweetener. You can also ice speciality espresso-based drinks like americanos, mochas, macchiatos, lattes and flat whites.",
+        "price": 40,
+        "ingredients": [
+          "Espresso",
+          "Ice",
+          "Sugar*",
+          "Cream*"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Home_Made_Ice_Coffee.jpg",
+        "id": 10
+      },
+      {
+        "title": "Cold Brew",
+        "desc": "The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours, depending on how strong you would like your cold brew. Once the beans are done steeping, add cold milk or cream.",
+        "price": 35,
+        "ingredients": [
+          "Long steeped coffee",
+          "Ice"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ColdBrewCoffeein_Cans.png/640px-ColdBrewCoffeein_Cans.png",
+        "id": 11
+      },
+      {
+        "title": "Frappuccino",
+        "desc": "Made famous by Starbucks, the Frappuccino is a blended iced coffee drink that’s topped with whipped cream and syrup. ",
+        "price": 55,
+        "ingredients": [
+          "Espresso",
+          "Blended ice",
+          "Whip*"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strawberry_Delight_Frappuccino.JPG",
+        "id": 12
+      },
+      {
+        "title": "Nitro",
+        "desc": "A cold brew + nitrogen bubbles = a cold brew coffee with a frothy, Guinness-like consistency. (It’s poured via a nitro tap, too.)",
+        "price": 40,
+        "ingredients": [
+          "Coffee",
+          "Nitrogen bubbles",
+          "Sugar*",
+          "Cream*"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nitro_Cold_Brew.jpg",
+        "id": 13
+      },
+      {
+        "title": "Mazagran",
+        "desc": "Mazagran coffee is a cross between iced coffee, tea and your favorite rum drink. It typically consists of espresso, lemon, sugar and (sometimes) rum.",
+        "price": 58,
+        "ingredients": [
+          "Coffee",
+          "Sugar",
+          "Lemon",
+          "Rum*"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Caf%C3%A9_mazagran.jpg",
+        "id": 14
+      }
+    ]
